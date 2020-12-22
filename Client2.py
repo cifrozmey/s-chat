@@ -12,7 +12,7 @@ from PyQt5.QtWidgets import QMainWindow, QWidget, QLabel, QLineEdit
 The_program_to_hide = win32gui.GetForegroundWindow()
 win32gui.ShowWindow(The_program_to_hide , win32con.SW_HIDE)
 
-SERVER_ADDRESS = ('192.168.1.4', 8125)
+SERVER_ADDRESS = ('тут ip локального сервера', 8125)
 sor = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 sor.bind(('', 0))
 sor.sendto(('User2 зашел в чат').encode('utf-8'), SERVER_ADDRESS)
