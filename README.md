@@ -1,2 +1,2 @@
 # s-chat
-Similar Chat или SChat. Что же это? С начала задумки и до конца реализации,  идей применения было много. Но конечной целью я выбрал создание чата с ограниченным кругом людей. Его простота и универсальность уникальна. Планируется реализация локального шифрования!
+Similar Chat or SChat. What is this? From the beginning of the idea to the end of implementation, there were many ideas for application. But the ultimate goal I chose was to create a chat with a limited circle of people. Its simplicity and versatility is unique. Implementation of local encryption is planned!
